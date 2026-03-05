@@ -1,0 +1,22 @@
+{
+  "name": "odoo-to-erpnext",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "bun run src/index.ts",
+    "sync:watch": "bun --watch run src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "xmlrpc": "^1.3.2",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/xmlrpc": "^1.3.10"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
