@@ -1,5 +1,5 @@
 {
-  "name": "odoo-to-erpnext",
+  "name": "odoo-applicants-to-erpnext",
   "module": "index.ts",
   "type": "module",
   "private": true,

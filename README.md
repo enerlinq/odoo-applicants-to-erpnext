@@ -1,4 +1,4 @@
-# odoo-to-erpnext
+# odoo-applicants-to-erpnext
 
 To install dependencies:
 
