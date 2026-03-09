@@ -33,8 +33,9 @@ This project was created using `bun init` in bun v1.3.10. [Bun](https://bun.com)
 
 ## Compatibility
 Compatible and tested with:
-- Odoo 18
+- Odoo v18
 - Frappe ERPNext v15
+- Frappe HR v15
 
 ## License
 MIT License
